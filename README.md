@@ -6,6 +6,5 @@
 #
 #I reccomend TeXShop and macTeX
 #
-#I have compiled PDFs on the repository for now. I will eventually take these
-#	away in favor of only having files required to compile the output PDF
+#I have compiled PDFs on the repository for now. I will eventually take these	away in favor of only having files required to compile the output PDF
 #
